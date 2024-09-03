@@ -1,0 +1,16 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+lenv/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+~$*.xlsx
+
+# Ignore model files
+best_model.pkl
