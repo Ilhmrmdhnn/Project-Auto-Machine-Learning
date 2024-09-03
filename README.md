@@ -47,9 +47,9 @@ This app provides valuable insights into the user's data and helps them:
 - **Identify the best model**: The automated model selection process helps users find the most suitable machine learning model for their specific task.
 - **Deploy models easily**: The ability to download trained models allows users to easily deploy them in their applications.
 
-## GitHub Repository
+## Note
 
-The code for this Streamlit app is available on GitHub. You can find the repository at [link to repository].
+This is a basic implementation of an AutoML app. You can further enhance it by adding features like:
 
 - **Hyperparameter tuning**: Automatically tune hyperparameters for the selected model.
 - **Model evaluation**: Provide more detailed evaluation metrics for each model.
